@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UO016
-- 👀 I’m interested in these methods for building a virtual world of 1 and 0.
+- 👀 I’m interested in these methods for building a virtual world based on 1 and 0.
 - 🌱 I’m currently learning basic knowledge of coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
